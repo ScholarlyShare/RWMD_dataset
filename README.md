@@ -1,10 +1,10 @@
 # RWMD_dataset
-The **Real-world Mobile Document (RWMD)** Dataset for the research of real-world document localization is now released by Xi’an Jiaotong University. The dataset can be downloaded through the following link: <br>
+The **Real-world Mobile Document (RWMD)** Dataset for the research of real-world document localization is now released by Institute of Multimedia Knowledge Fusion and Engineering, Xi’an Jiaotong University. The dataset can be downloaded through the following link: <br>
 <br>
 •	Baidu Cloud:https://pan.baidu.com/s/1QTwiUXq4ITHPzAX91f9YDA (Password: 6y4t, Size=3.98G) <br>
 •	OneDrive: (Will be available soon) <br>
 <br>
-Note: The RWMD dataset can only be used for non-commercial research purpose. For scholars or organization who wants to use the RWMD dataset, please first fill in this Application Form [Download Application Document](https://github.com/ScholarlyShare/RWMD_dataset/blob/main/Application_Form_for_Using_RWMD_dataset_2024.docx) and send it via email to us (huxc9@lenovo.com). When submiting the application form to us, please list or attached 1-2 of your publications in recent 6 years to indicate that you (or your team) do research in the related research fields of OCR, document analysis and recognition, document image processing, and so on. We will give you the decompression password after your letter has been received and approved.
+**Note**: The RWMD dataset can only be used for non-commercial research purpose. For scholars or organization who wants to use the RWMD dataset, please first fill in this Application Form [Download Application Document](https://github.com/ScholarlyShare/RWMD_dataset/blob/main/Application_Form_for_Using_RWMD_dataset_2024.docx) and send it via email to us (xjtufy@stu.xjtu.edu.cn). When submiting the application form to us, please list or attached 1-2 of your publications in recent 6 years to indicate that you (or your team) do research in the related research fields of OCR, document analysis and recognition, document image processing, and so on. We will give you the decompression password after your letter has been received and approved.
 
 ## Description
 The images in RWMD dataset are captured by eight different mobile phones including iPhone13, Samsung Galaxy S21 Ultra, HUAWEI nova 7 SE, HUAWEI P30, HUAWEI P50 Pro, VIVO S17e, VIVO X21A, and Xiaomi 8. The RWMD dataset contains a total of 2009 images which are divided into nine categories. Moreover, each category contains documents in different styles with different real background, distortion, rotation, perspective transformation, high contrast, light intensity, occlusion and other real situations. The following are some samples of different types of documents with various scenarios:<br>
@@ -22,7 +22,7 @@ Please consider to cite our paper when you use our dataset:<br>
 <br>
 Yaqiang Wu, Zhen Xu, Yong Duan, Yanlai Wu, Qinghua Zheng, Hui Li, Xiaochen Hu, and Lianwen Jin. 2024. RDLNet: A Novel and Accurate Real-world Document Localization Method. In Proceedings of the 32nd ACM International Conference on Multimedia (MM ’24), October 28-November 1, 2024, Melbourne, VIC, Australia. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3664647.3681655 <br>
 <br>
-For any questions about the dataset please contact the authors by sending email to Xiaochen Hu (huxc9@lenovo.com).<br>
+For any questions about the dataset please contact the authors by sending email to xjtufy@stu.xjtu.edu.cn.<br>
 <br>
 ## Statement
 Many documents in the images of RWDM dataset are public or internal publications, we do not own the copyright of these documents. For researchers and developers who wish to use the images for non-commercial research and/or education purpose, we provide the access to images and the corresponding annotations.<br>
