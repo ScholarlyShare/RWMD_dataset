@@ -1,4 +1,11 @@
 # RWMD_dataset
+**Update  20250216**: <br><br>
+The RWMD dataset can be downloaded through the following link without extra application (The RWMD dataset can only be used for non-commercial research purpose.): <br>
+<br>
+•	OneDrive:https://1drv.ms/u/c/e55f55d5cf5c1808/EWi1OGlI6sNOj9WdOYosKuQBSRsWhindFlQ-YwKGh8wrGQ?e=LW9G0H
+<br> <br>
+
+**Original:** <br><br>
 The **Real-world Mobile Document (RWMD)** Dataset for the research of real-world document localization is now released by Institute of Multimedia Knowledge Fusion and Engineering, Xi’an Jiaotong University. The dataset can be downloaded through the following link: <br>
 <br>
 •	Baidu Cloud:https://pan.baidu.com/s/1QTwiUXq4ITHPzAX91f9YDA (Size=3.98G) <br>
