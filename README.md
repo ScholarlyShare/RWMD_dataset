@@ -1,17 +1,13 @@
 # RWMD_dataset
 **Update  20250216**: <br><br>
+The **Real-world Mobile Document (RWMD)** Dataset for the research of real-world document localization is now released by Institute of Multimedia Knowledge Fusion and Engineering, Xi’an Jiaotong University.<br>
 The RWMD dataset can be downloaded through the following link without extra application (The RWMD dataset can only be used for non-commercial research purpose.): <br>
 <br>
-•	OneDrive:https://1drv.ms/u/c/e55f55d5cf5c1808/EWi1OGlI6sNOj9WdOYosKuQBSRsWhindFlQ-YwKGh8wrGQ?e=LW9G0H
+•	Baidu Cloud: https://pan.baidu.com/s/10pIeOL0JyqV6iWISBIxLxQ    (code: 1iqe)  <br>
+•	OneDrive:https://1drv.ms/u/c/e55f55d5cf5c1808/EWi1OGlI6sNOj9WdOYosKuQBSRsWhindFlQ-YwKGh8wrGQ?e=LW9G0H  <br>
 <br> <br>
 
-**Original:** <br><br>
-The **Real-world Mobile Document (RWMD)** Dataset for the research of real-world document localization is now released by Institute of Multimedia Knowledge Fusion and Engineering, Xi’an Jiaotong University. The dataset can be downloaded through the following link: <br>
-<br>
-•	Baidu Cloud:https://pan.baidu.com/s/1QTwiUXq4ITHPzAX91f9YDA (Size=3.98G) <br>
-•	OneDrive: (Will be available soon) <br>
-<br>
-**Note**: The RWMD dataset can only be used for non-commercial research purpose. For scholars or organization who wants to use the RWMD dataset, please first fill in this Application Form [Download Application Document](https://github.com/ScholarlyShare/RWMD_dataset/blob/main/Application_Form_for_Using_RWMD_dataset_2024.docx) and send it via email to us (xjtufy@stu.xjtu.edu.cn). When submiting the application form to us, please list or attached 1-2 of your publications in recent 6 years to indicate that you (or your team) do research in the related research fields of OCR, document analysis and recognition, document image processing, and so on. We will give you the download and decompression passwords after your letter has been received and approved.
+
 
 ## Description
 The images in RWMD dataset are captured by eight different mobile phones including iPhone13, Samsung Galaxy S21 Ultra, HUAWEI nova 7 SE, HUAWEI P30, HUAWEI P50 Pro, VIVO S17e, VIVO X21A, and Xiaomi 8. The RWMD dataset contains a total of 2009 images which are divided into nine categories. Moreover, each category contains documents in different styles with different real background, distortion, rotation, perspective transformation, high contrast, light intensity, occlusion and other real situations. The following are some samples of different types of documents with various scenarios:<br>
