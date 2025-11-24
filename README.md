@@ -5,6 +5,8 @@ The RWMD dataset can be downloaded through the following link without extra appl
 <br>
 •	Baidu Cloud: https://pan.baidu.com/s/10pIeOL0JyqV6iWISBIxLxQ    (code: 1iqe)  <br>
 •	OneDrive:https://1drv.ms/u/c/e55f55d5cf5c1808/EWi1OGlI6sNOj9WdOYosKuQBSRsWhindFlQ-YwKGh8wrGQ?e=LW9G0H  <br>
+
+**Data decompression password**： rwmd_lr_2024
 <br> <br>
 
 
